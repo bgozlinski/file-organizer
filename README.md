@@ -33,4 +33,5 @@ from the filesystem. Always back up your data before using this functionality.
 
 ## License
 
-This project is open source and available under the MIT License.
+For more information on the MIT license, you can visit [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the terms of the MIT license. See the LICENSE file for details.
